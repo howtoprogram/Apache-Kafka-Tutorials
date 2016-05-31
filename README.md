@@ -25,7 +25,6 @@ All the source code are described in:
 
 ## 2. Related Posts
 
-# [Getting started with Apache Kafka 0.9](http://howtoprogram.xyz/2016/04/30/getting-started-apache-kafka-0-9)
-# [Create Multi-threaded Apache Kafka Consumer](http://howtoprogram.xyz/2016/05/29/create-multi-threaded-apache-kafka-consumer/) 
-# [Apache Kafka 0.9 Java Client API Example] (http://howtoprogram.xyz/2016/05/02/apache-kafka-0-9-java-client-api-example)
+## [Getting started with Apache Kafka 0.9](http://howtoprogram.xyz/2016/04/30/getting-started-apache-kafka-0-9)
+## [Create Multi-threaded Apache Kafka Consumer](http://howtoprogram.xyz/2016/05/29/create-multi-threaded-apache-kafka-consumer/) 
 
